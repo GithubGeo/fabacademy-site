@@ -6,7 +6,7 @@ layout: page
 In this page i will link all the pages that will contain my notes on official classes and the work done to complete each week assignment.
 
 
-## Classes
+
 
 * [principles and practices, project management (Jan 28)](./trimester01)
 * [computer-aided design (Feb 4)](./trimester01)

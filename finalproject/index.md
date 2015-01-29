@@ -1,6 +1,6 @@
 ---
-title: Version Control Software
-layout: lesson
+title: Final project
+layout: page
 subtitle: Final Project
 ---
 
