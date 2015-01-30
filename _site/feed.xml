@@ -5,9 +5,25 @@
     <description>This site is the diary of an adventure on the path of &quot;How to build almost anything&quot;.</description>
     <link>http://githubgeo.github.io/</link>
     <atom:link href="http://githubgeo.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Jan 2015 07:05:04 +0100</pubDate>
-    <lastBuildDate>Fri, 30 Jan 2015 07:05:04 +0100</lastBuildDate>
+    <pubDate>Fri, 30 Jan 2015 23:23:55 +0100</pubDate>
+    <lastBuildDate>Fri, 30 Jan 2015 23:23:55 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Welcome my Fab Academy site!</title>
+        <description>&lt;p&gt;It is an exciting moment finally the Fab Academy begin!
+After a long time waiting for it and a three hour car journey from Pesaro to Pisa i am at Fablab Cascina waiting the connection.&lt;/p&gt;
+
+&lt;p&gt;May the force be with you. &lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Jan 2015 16:00:00 +0100</pubDate>
+        <link>http://githubgeo.github.io/news/2015/01/28/welcome-to-fabacademy.html</link>
+        <guid isPermaLink="true">http://githubgeo.github.io/news/2015/01/28/welcome-to-fabacademy.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
