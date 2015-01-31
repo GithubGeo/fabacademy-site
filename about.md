@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+<div style="width: 100%; float:left">
+		<img src="/images/avatar.jpg"> 
+</div>
 
 My name is Christian but my friends are wont to call me **Geo**.
 
