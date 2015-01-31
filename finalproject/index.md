@@ -30,13 +30,11 @@ These are preliminary sketchs usefull to imagine the final idea:
 	<div style="float:left; width:50%">
 		<img src="sketch-01.jpg"> 
 	</div>
-	<div style="float: left; width:50%">
+	<div style="float:right; width:50%">
 		<img src="sketch-02.jpg">
 	</div>
 </div>
-
-
-
+ 
 
 ## Milestones to achieve
 
