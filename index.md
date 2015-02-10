@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: welcome
 title:  "Welcome to my Fab Academy site!"
 date:   2015-01-28 15:00:00
 ---
