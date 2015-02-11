@@ -1,6 +1,7 @@
 ---
 title: Classes
 layout: default
+menu: true
 ---
 
 In this page i will link all the pages that will contain my notes on official classes and the work done to complete each week assignment.

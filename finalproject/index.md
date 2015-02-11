@@ -2,6 +2,7 @@
 title: Final project
 layout: page
 subtitle: Final Project
+menu: true
 ---
 
 ## Summary

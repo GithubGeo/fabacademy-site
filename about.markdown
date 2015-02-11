@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+menu: true
 ---
 
 <div style="width: 100%; float:left">
