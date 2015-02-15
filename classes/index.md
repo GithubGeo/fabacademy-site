@@ -11,7 +11,7 @@ In this page i will link all the pages that will contain my notes on official cl
 
 * [principles and practices, project management (Jan 28)](./trimester01/principles.html)
 * [computer-aided design (Feb 4)](./trimester01/cad.html)
-* [computer-controlled cutting (Feb 11)](./trimester01)
+* [computer-controlled cutting (Feb 11)](./trimester01/ccc.html)
 * [electronics production (Feb 18)](./trimester01)
 * [3D scanning and printing (Feb 25)](./trimester01)
 * [electronics design (Mar 4)](./trimester01)

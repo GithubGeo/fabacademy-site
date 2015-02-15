@@ -49,13 +49,30 @@ The first approach to design the model was to start from a bitmap image and vect
 
 ![VectorializeTry2](./VectorializeDome2.jpg)
 
-I discovered that this isn't a correct way to complete the task. And so i decided to proceed to redesign all the trace.
+I discovered that this isn't a correct way to complete the task. And so i decided to proceed to redesign all the trace by hand, scan it and then vectorialize the path. This is the result of the process:
+
+![cianography_geodesicdome](./)
 
 
 
 #### Software for 3D modeling
 The exploration of 3D softwares was a parallel activity with the exploration of 2D software but because i am not familiar with this kind of software my learning curve was very steep. 
-The approach in this case is to jump directly on my specific problem and learn how to model a geodesic dome (that i think it will be the most difficult part to model). 
+The approach in this case is to jump directly on my specific problem and learn how to model a geodesic dome (that i think it will be the most difficult part to model) using various software.
+
+Below the trying done:
+
+**SketchUp**
+Using this [tutorial](http://www.instructables.com/id/Construct-Geodesic-Spheres-on-Google-SketchUp/) i produced this partial part of the dome.
+![sketchupdome](./)
+
+**Openscad**
+![openscadscrenn](./)
+
+**Blender**
+![blender_script](./)
+
+**Antimony**
+
 
 
 ## Conclusions
