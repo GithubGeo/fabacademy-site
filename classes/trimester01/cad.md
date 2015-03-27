@@ -73,6 +73,13 @@ Using this [tutorial](http://www.instructables.com/id/Construct-Geodesic-Spheres
 
 **Antimony**
 
+The installation of Antimony was not a simple task. In fact in my Ubuntu 12.04 LTS the process fail because of lacking of some python library: libboost...
+
+Manca immagine
+
+I tried in many ways to resolve this problem and this process i found a usefull tool named [pyenv](). It is a version manager of python install that could bypass your standard installation of python and fix the version of the program that you could use to compile and install.
+Unfourtunately this was not usefull. 
+To resolve the issue a tried an update of my os and also if i wasn't sure that it was the right option for my old laptop. Fourtunatly all went well and with Ubuntu 14.04 LTS installed and python updated the installation of antimony was easy. 
 
 
 ## Conclusions
