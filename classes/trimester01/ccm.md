@@ -13,6 +13,8 @@ layout: lesson
 
 ## Introduction
 
-## Larning path
+## Learning path
+This <span style="color:red">word</span> is not black.
+This <span style="color:green">word</span> is not black.
 
 ## Conclusion
