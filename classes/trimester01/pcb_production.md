@@ -31,12 +31,23 @@ Here the image of that represent schematics of the circuit, assembly drawing and
 
 |![FabISP_Schematics](./fabispschematics.jpg)|![FabISP_Path](./fabisppath.jpg)|![FabISP_Building](./fabispbuilding.jpg)|![FabISP_BuildingExt](./fabispbuildingext.jpg)|
 
+Finally this is the BOM neede to ralize the fabisp:
+
+
 ### Fabrication
 
+- setting the milling machine
+- kind of punte used
+- soldering
+- testing (tester and smoke test)
+- programming process (no on ubuntu, yes on mac)
+- testing again: (yes on ubuntu, no on mac)
+- rework of the soldering the solders: they had to become shiny and brite
+- test single components with tester
+- after rework: ok on ubuntu and mac
 
+How i realized it:
 
-
-How i realized it: 
 - pick up a pdf file with schematics, 
 - past to the milling machine (instruction and video), 
 - define the bom utilized to realized the circuit, 

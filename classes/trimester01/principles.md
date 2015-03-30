@@ -34,7 +34,11 @@ In the first time i used git to versioning my archive files because:
 - easy linkable with external service like the famous [Github](www.github.com), that allow you to publish your site in a free domain without any extra effort [GithubGeo](githubgeo.github.io);
 
 <span style="color:red"> My experience with this versioning software was not easy at the beginning because you have to understand how this tool work and the basic command to set up the a fully functional versioning system on your archive.</span>   
-On the other side this kind of softwares are very well documented and in every moment you can read the manpages to find the correct use of it.
+To clarify how this kind of softwares works and which are the principal differences between git and hg, i found this usefull image:
+
+![Git and Hg concept](./git-hg.jpg)
+
+On the other side these kind of softwares are very well documented and in every moment you can read the manpages to find the correct use of it.
 
 This is the tipical workflow that i use to track my archive:
 
@@ -47,6 +51,10 @@ This is the tipical workflow that i use to track my archive:
 	# Finally you can push your files to a remote repository
 	git push origin master
 
+Here it is a screenshot of git in action:
+
+![Git in action](./git-screenshot.jpg)
+
 In Fablab Cascina we use a bash script to align all the students archive with the European Fabacademy 2015 archive. This is the script:
 
 I tried also Mercurial to version other archives files project that i commnly use in my work. The basic workflow that i use in this case is:
@@ -55,13 +63,20 @@ I tried also Mercurial to version other archives files project that i commnly us
 ### Web site
 
 - what programs i use and why: jekyll and bootstrap
+
+![What is Jekyll](./jekyll_whatis.jpg)
+
+![What is Bootstrap](./bootstrap_whatis.jpg)
+
+![Sublimetext: a powerfull text editor](./subl_texteditor.jpg)
+
 - install troubleshootings and hints for an ubuntu installation
 - Structure of the program and how to use it
 
 
 ### Final project
 Finding an idea for a project could seem an easy task but i experienced that is not so easy. The first problem that i encountered was the _"orror vacui"_ when you are in front of a blank page. I tackled this difficulties writing in this blank page: my interests, my needs, my knoledges in a form of a personal brainstorming.
-![brainstormingfinalprject](./brainstorminfp.jpg)
+![brainstormingfinalprject](./brainstormingfp.jpg)
 
 The picture emerged from the brain storming was that the project had to be the following characteristics:
 
