@@ -61,17 +61,20 @@ The approach in this case is to jump directly on my specific problem and learn h
 
 Below the trying done:
 
-**SketchUp**
-Using this [tutorial](http://www.instructables.com/id/Construct-Geodesic-Spheres-on-Google-SketchUp/) i produced this partial part of the dome.
+**SketchUp: the trickie way**
+Following this [tutorial](http://www.instructables.com/id/Construct-Geodesic-Spheres-on-Google-SketchUp/) i produced this partial part of the dome.
+
 ![sketchupdome](./)
 
-**Openscad**
+I think that using Sketchup is not the right way to design my project: in fact the 
+
+**Openscad: a matemathical approach**
 ![openscadscrenn](./)
 
-**Blender**
+**Blender: easy but not usefull**
 ![blender_script](./)
 
-**Antimony**
+**Antimony: a jump on a black hole**
 
 The installation of Antimony was not a simple task. In fact in my Ubuntu 12.04 LTS the process fail because of lacking of some python library: libboost...
 
