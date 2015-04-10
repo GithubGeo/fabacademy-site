@@ -13,6 +13,6 @@ layout: lesson
 
 ## Introduction
 
-## Larning path
+## Learning path
 
 ## Conclusion
